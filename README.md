@@ -1,4 +1,3 @@
-```markdown
 # Prayogo Edwin
 
 **Software Engineer** · Indonesia 🇮🇩
@@ -26,4 +25,3 @@ Building web applications and REST APIs. Sometimes tinkering with automation and
   <a href="https://linkedin.com/in/edwin-ocky-prayogo-9766bb12b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://prayogoedwin.github.io"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-```
