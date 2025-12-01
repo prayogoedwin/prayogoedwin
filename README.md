@@ -1,4 +1,4 @@
-# Prayogo Edwin
+# Edwin Ocky Prayogo
 
 **Software Engineer** · Indonesia 🇮🇩
 
